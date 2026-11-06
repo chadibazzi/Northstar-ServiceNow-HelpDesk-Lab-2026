@@ -68,4 +68,6 @@ Use only personally controlled isolated lab systems and test identities; preserv
 
 ## Repository owner
 
-Prepared for GitHub account **[@chadibazzi](https://github.com/chadibazzi)**. Repository publishing and GitHub ownership have not yet been verified.
+Prepared for GitHub account **[@chadibazzi](https://github.com/chadibazzi)**. Repository publishing and GitHub ownership have not yet been verified.**Repository owner:** [@chadibazzi](https://github.com/chadibazzi)
+
+This project is published as a personal, hands-on ServiceNow Help Desk and SOC training portfolio. All company names, users, and incidents are fictional lab scenarios.
